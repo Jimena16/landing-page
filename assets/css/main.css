@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #DAC0A3;
+		background: #251b28;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -174,8 +174,9 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	/* change color of text */
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #251B28;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -3238,9 +3239,9 @@ input, select, textarea {
 		.wrapper.alt {
 			background-color: #261c3e;
 		}
-
+		/* edit background color */
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #c4c4db;
 		}
 
 		.wrapper.style1-alt {
@@ -3377,7 +3378,7 @@ input, select, textarea {
 
 		#header > .title {
 			border: 0;
-			color: #ffffff;
+			color: #D29F13;
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
@@ -3422,7 +3423,7 @@ input, select, textarea {
 						}
 
 						#header > nav > ul > li a.active {
-							color: #ffffff;
+							color: #D29F13;
 						}
 
 		@media screen and (max-width: 736px) {
